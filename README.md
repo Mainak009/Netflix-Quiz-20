@@ -1,2 +1,2 @@
-# Netflix Quiz 20
- Test your Netflix knowledge ;)
+# Welcome to The Netflix Quiz 2.0
+ Here you can Test your Netflix knowledge ;)
