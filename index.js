@@ -92,6 +92,10 @@ var highScore = [
   {
     name:'Mainak',
     point: 10
+  },
+  {
+    name:'Kasif',
+    point: 3
   }
 ]
 
